@@ -1,6 +1,6 @@
 # Python-Portfolio
 
-This repo is a collection of python programs I have created for coursework or other uses. 
+This repo is a collection of some of the python programs I have created for coursework or other uses. 
 
 * **data\_cleanup.py**, **data\_visualization.py**, **trace\_cleanup.py** and **trace\_summary\_table.py** were some of the programs I used to analyze ping and traceroute data for my networking class. 
 
